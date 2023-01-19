@@ -1,0 +1,17 @@
+.main{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.list {
+    width: 345px;
+}
+
+.listItem{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
